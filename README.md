@@ -1,7 +1,7 @@
-# Warisa Kongsantinart (Sa)
+# By Warisa Kongsantinart (Sa)
 
 ## Swift Dynamics - Backend Python Developer - Exam
-(Send From Preethi Nanavath - preethi.n@dikshatech.com)
+(Exam Email Send From Preethi Nanavath - preethi.n@dikshatech.com)
 
 ### README for 5_rest_api
 1) open project, enter '5_rest_api' folder 
